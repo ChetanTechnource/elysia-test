@@ -4,7 +4,7 @@ const routes = new Elysia()
     .get('/html', () => `
     <html lang="en">
         <head>
-            <title>Hello World  </title>
+            <title>Hello World</title>
         </head>
         <body>
             <h1>Hello World</h1>
